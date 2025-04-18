@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FFBFBFBF</color>
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#2ECC71</color> <!-- Green -->
+    <color name="colorSecondary">#1ABC9C</color> <!-- Teal -->
+    <color name="colorPrimaryVariant">#27AE60</color> <!-- Darker Green -->
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#F5F5F5</color> <!-- Light Gray -->
+
+    <!-- Text Colors (Shades of Primary) -->
+    <color name="textPrimary">#333333</color> <!-- Dark Gray for better visibility -->
+    <color name="textSecondary">#555555</color> <!-- Slightly lighter than primary text -->
+
+
+    <!-- Other UI Colors -->
+    <color name="colorAccent">#FFC107</color> <!-- Yellow Accent -->
+    <color name="colorError">#D32F2F</color> <!-- Red for errors -->
+    <color name="colorSuccess">#4CAF50</color> <!-- Green for success messages -->
+</resources>
